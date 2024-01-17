@@ -8,6 +8,7 @@
 
 
 
+![5bb8bb9a33d81_a1d28d6151118b6dd78566b6d91b8829](https://github.com/IremSteffi/skills-communicate-using-markdown/assets/148335788/3e64f83f-0f85-43c4-a2fc-58da7e366c5f)
 
 
 
@@ -33,6 +34,4 @@
 
 
 
-
-
-Added "Hallo + H#" in diffrent header sizes 
+Added Roger to the file
